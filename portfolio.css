@@ -106,8 +106,7 @@ footer {
 }
 
 .content a:hover {
-    color: rgb(142, 178, 255);
-    text-decoration: underline rgb(255, 214, 142); 
+    color: rgb(255, 142, 251); 
 }
 
 .content h3 {
