@@ -31,11 +31,11 @@ function rdMore() {
   
     if (dots.style.display === "none") {
       dots.style.display = "inline";
-      btnText.innerHTML = "Read more";
+      btnText.innerHTML = "More Apps";
       moreText.style.display = "none";
     } else {
       dots.style.display = "none";
-      btnText.innerHTML = "Read less";
+      btnText.innerHTML = "Less Apps";
       moreText.style.display = "inline";
     }
   }
